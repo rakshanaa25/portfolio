@@ -1,3 +1,5 @@
+Week 1 Portfolio Project – Club Website
+
 ## 📖 What I Learned
 - Structuring a real-world website
 - Writing clean HTML & CSS
